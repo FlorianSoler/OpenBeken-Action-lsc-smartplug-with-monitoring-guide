@@ -133,3 +133,5 @@ here my json obtained by reading the dump firmware :
 
 # Congrat ! you have flash your action smart plug !
 ### Refer to [Tasmota Getting-Started](https://tasmota.github.io/docs/Getting-Started/#__tabbed_2_2)  or [OpenBeken website](https://openbekeniot.github.io/webapp/devicesList.html) guide for connecting this to you wifi and for using **MQTT**.
+
+thx to I.Popa for experimenting with me.
